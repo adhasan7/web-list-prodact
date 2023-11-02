@@ -1,4 +1,13 @@
-{
-  "nama": "sandika",
-  "umur": 32
-}
+[
+  {
+    "nama": "sandika",
+    "umur": 32,
+    "nrp": "043040023",
+    "lulus": true,
+    "hobby": ["coding", "gaming"],
+    "pembingbing": {
+      "pembimbing1": "Doddy Ferdiansyah",
+      "pembingbing2": "Erick Doang"
+    }
+  }
+]
